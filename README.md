@@ -59,5 +59,5 @@ password: password
 You may change the password by modifying the database/seeder/DatabaseSeeder.php file then perform the migrate seed again
 # To terminate containers
 ```
-# run ./vendor/bin/sail down  
+# run, ./vendor/bin/sail down  
 ```
